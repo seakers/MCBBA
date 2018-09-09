@@ -1,0 +1,22 @@
+----------------------------------------------------------------------
+-- Log session for [myBugCoalitionsCCBBAGuaiDEF-12] started on 2017.07.14.18.33.20 --
+----------------------------------------------------------------------
+
+INFORMACIÓN : I started
+INFORMACIÓN : 0apuestaBundle [1408.375313417989, 1131.0438995827728, 982.6439979384593, 927.9441770833876]
+INFORMACIÓN : 0positionsBundle [398, 777, 1060, 362]
+INFORMACIÓN : 0levelsBundle [3, 3, 3, 3]
+INFORMACIÓN : 0positionsOrdered [398, 777, 1060, 362]
+INFORMACIÓN : 0levelsOrdered [3, 3, 3, 3]
+INFORMACIÓN : 0partialityOrdered [3, 3, 3, 3]
+INFORMACIÓN : 0arrivalTimes [44.1877558547894, 66.65996090903363, 84.68771728635357, 98.82985291008453]
+INFORMACIÓN : coalSat position 398 level 3
+INFORMACIÓN : timeSat position 398 level 3
+INFORMACIÓN : coalSat position 777 level 3
+INFORMACIÓN : timeSat position 777 level 3
+INFORMACIÓN : coalSat position 1060 level 3
+INFORMACIÓN : timeSat position 1060 level 3
+INFORMACIÓN : coalSat position 362 level 3
+INFORMACIÓN : timeSat position 362 level 3
+INFORMACIÓN : I [MW]; lost Test.myBail@38423c98; POS 398; sensors [AB, IR]; level 3 I paid 1408.375313417989in favour ofnull paid 1408.375313417989
+INFORMACIÓN : 1historia0[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1123.7532254308908, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1402.8653768180345, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 982.4505921056818, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 927.7620661890203, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]

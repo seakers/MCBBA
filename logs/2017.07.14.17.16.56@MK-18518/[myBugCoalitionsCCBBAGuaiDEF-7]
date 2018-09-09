@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+-- Log session for [myBugCoalitionsCCBBAGuaiDEF-7] started on 2017.07.14.17.16.57 --
+----------------------------------------------------------------------
+
+INFORMACIÓN : I started
+INFORMACIÓN : 0apuestaBundle [1390.0189326823722, 1092.5843905097543, 966.525894942389, 920.9019934460846]
+INFORMACIÓN : 0positionsBundle [951, 1651, 99, 1689]
+INFORMACIÓN : 0levelsBundle [3, 3, 3, 3]
+INFORMACIÓN : 0positionsOrdered [951, 1651, 99, 1689]
+INFORMACIÓN : 0levelsOrdered [3, 3, 3, 3]
+INFORMACIÓN : 0partialityOrdered [3, 3, 3, 3]
+INFORMACIÓN : 0arrivalTimes [56.58872055299679, 70.58872055299679, 128.27754096042062, 161.80365018890103]
+INFORMACIÓN : I [AB]; lost Test.myBail@45b91df0; POS 951; sensors [IR, MW]; level 3 I paid 1390.0189326823722in favour of13@(myturtles,myturtles,bug)@MK-18518 paid 1413.5199976675024

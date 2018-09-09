@@ -1,0 +1,24 @@
+Density Bails: twelve
+Concentration of bails: low
+Modularity: two
+Score Dispersion: low
+Task Sensor Dispersion: high
+Bug Sensor Dispersion: low
+Density Bugs: low
+Cost of Moving: low
+Cost of Moving Dispersion: low
+Cost of Photo: low
+Cost of Photo Dispersion: low
+Resources: low
+Resources Dispersion: low
+Lambda: 0.015
+Tau: 2.0
+Waiting: true
+Merging Cost : 10.0
+Splitting Cost : 10.0
+Merging Cost : 10.0
+Splitting Cost : 10.0
+Merging Cost : 10.0
+Splitting Cost : 10.0
+Merging Cost : 10.0
+Splitting Cost : 10.0

@@ -1,0 +1,16 @@
+----------------------------------------------------------------------
+-- Log session for [myBugCoalitionsCCBBAGuaiDEF-5] started on 2017.07.17.18.41.00 --
+----------------------------------------------------------------------
+
+INFORMACIÓN : I started
+INFORMACIÓN : 0apuestaBundle [45.0]
+INFORMACIÓN : 0positionsBundle [214]
+INFORMACIÓN : 0levelsBundle [2]
+INFORMACIÓN : 0positionsOrdered [214]
+INFORMACIÓN : 0levelsOrdered [2]
+INFORMACIÓN : 0partialityOrdered [2]
+INFORMACIÓN : 0arrivalTimes [3.0]
+INFORMACIÓN : coalSat position 214 level 2
+INFORMACIÓN : timeSat position 214 level 2
+INFORMACIÓN : I [IR]; lost Test.myBail@49f636d2; POS 214; sensors [MW]; level 2 I paid 45.0in favour ofnull paid 45.0
+INFORMACIÓN : 1historia0[24.0, 0.0, 0.0, 0.0, 43.0]

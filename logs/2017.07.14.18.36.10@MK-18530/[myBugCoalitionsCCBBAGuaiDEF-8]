@@ -1,0 +1,45 @@
+----------------------------------------------------------------------
+-- Log session for [myBugCoalitionsCCBBAGuaiDEF-8] started on 2017.07.14.18.36.11 --
+----------------------------------------------------------------------
+
+INFORMACIÓN : I started
+INFORMACIÓN : 0apuestaBundle [1454.6478600970113, 1090.252381654273, 989.4940715818166, 929.8615359943715]
+INFORMACIÓN : 0positionsBundle [130, 2251, 769, 1884]
+INFORMACIÓN : 0levelsBundle [3, 3, 3, 3]
+INFORMACIÓN : 0positionsOrdered [130, 2251, 769, 1884]
+INFORMACIÓN : 0levelsOrdered [3, 3, 3, 3]
+INFORMACIÓN : 0partialityOrdered [3, 3, 3, 3]
+INFORMACIÓN : 0arrivalTimes [12.934329871397175, 64.79953979095694, 99.78525116002874, 126.41230507141744]
+INFORMACIÓN : coalSat position 130 level 3
+INFORMACIÓN : timeSat position 130 level 3
+INFORMACIÓN : coalSat position 2251 level 3
+INFORMACIÓN : timeSat position 2251 level 3
+INFORMACIÓN : coalSat position 769 level 3
+INFORMACIÓN : timeSat position 769 level 3
+INFORMACIÓN : coalSat position 1884 level 3
+INFORMACIÓN : timeSat position 1884 level 3
+INFORMACIÓN : I [IR]; lost Test.myBail@64656b2a; POS 130; sensors [AB, MW]; level 3 I paid 1454.6478600970113in favour ofnull paid 1454.6478600970113
+INFORMACIÓN : 1historia0[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 989.9196937696538, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 929.9779823842368, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1466.7800967633912, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 928.6472335573139, 1088.8092401062772, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 988.2040081074615, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1417.8506377740623, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1090.7285078877708, 0.0, 0.0]
+INFORMACIÓN : 1apuestaBundle [680.27472721299, 634.8644028593246, 555.6441562973321, 500.84130318340584]
+INFORMACIÓN : 1positionsBundle [2317, 1606, 2307, 2032]
+INFORMACIÓN : 1levelsBundle [3, 3, 3, 3]
+INFORMACIÓN : 1positionsOrdered [2317, 1606, 2307, 2032]
+INFORMACIÓN : 1levelsOrdered [3, 3, 3, 3]
+INFORMACIÓN : 1partialityOrdered [3, 3, 3, 3]
+INFORMACIÓN : 1arrivalTimes [39.298171758592424, 57.102665573357285, 71.13833442097548, 96.84825468534036]
+INFORMACIÓN : coalSat position 1606 level 3
+INFORMACIÓN : I [IR]; lost Test.myBail@51da7b59; POS 2317; sensors [AB, MW]; level 3 I paid 680.27472721299in favour of11@(myturtles,myturtles,bug)@MK-18530 paid 694.1318883675808
+INFORMACIÓN : 2historia0[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 619.7233604706793, 0.0, 557.883672095991, 0.0, 0.0, 0.0, 0.0, 988.0761269180389, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 928.1347366074729, 527.7613591936336, 0.0, 0.0, 0.0, 0.0, 0.0, 1464.1621313913092, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 925.125420808014, 1088.3161693398424, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 694.1318883675808, 0.0, 0.0, 558.7549266738561, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 987.7632387408444, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 527.7755903909986, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1410.943813729903, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 694.8573717459667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1088.6661846199918, 0.0, 0.0]
+INFORMACIÓN : 2apuestaBundle [926.4435056993686, 634.2988877654103, 430.43256834292947, 404.1944650538894]
+INFORMACIÓN : 2positionsBundle [1884, 1606, 1229, 1126]
+INFORMACIÓN : 2levelsBundle [3, 3, 2, 3]
+INFORMACIÓN : 2positionsOrdered [1606, 1229, 1126, 1884]
+INFORMACIÓN : 2levelsOrdered [3, 2, 3, 3]
+INFORMACIÓN : 2partialityOrdered [3, 2, 3, 3]
+INFORMACIÓN : 2arrivalTimes [44.73761541532877, 69.0892067391006, 72.6947580145646, 159.76352661514653]
+INFORMACIÓN : coalSat position 1606 level 3
+INFORMACIÓN : coalSat position 1229 level 2
+INFORMACIÓN : timeSat position 1229 level 2
+INFORMACIÓN : coalSat position 1126 level 3
+INFORMACIÓN : timeSat position 1126 level 3
+INFORMACIÓN : I [IR]; lost Test.myBail@24b6d055; POS 1606; sensors [AB, MW]; level 3 I paid 634.2988877654103in favour ofnull paid 634.2988877654103

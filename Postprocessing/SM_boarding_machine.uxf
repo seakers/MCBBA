@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><umlet_diagram><element><type>com.umlet.element.custom.FinalState</type><coordinates><x>70</x><y>370</y><w>20</w><h>20</h></coordinates><panel_attributes></panel_attributes><additional_attributes>transparentSelection=false</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>70</x><y>346</y><w>120</w><h>54</h></coordinates><panel_attributes>lt=&lt;-
+off/</panel_attributes><additional_attributes>20;34;100;34</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>70</x><y>56</y><w>120</w><h>54</h></coordinates><panel_attributes>lt=&lt;-
+on/</panel_attributes><additional_attributes>100;34;20;34</additional_attributes></element><element><type>com.umlet.element.custom.InitialState</type><coordinates><x>70</x><y>80</y><w>20</w><h>20</h></coordinates><panel_attributes></panel_attributes><additional_attributes>transparentSelection=false</additional_attributes></element><element><type>com.umlet.element.custom.State</type><coordinates><x>170</x><y>20</y><w>300</w><h>430</h></coordinates><panel_attributes>spider
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-.
+</panel_attributes><additional_attributes>transparentSelection=true</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>180</x><y>220</y><w>171</w><h>117</h></coordinates><panel_attributes>lt=&lt;-
+if (d&gt;0)/
+"spider rotates"</panel_attributes><additional_attributes>151;40;151;80;71;80;71;20;110;20</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>260</x><y>90</y><w>94</w><h>150</h></coordinates><panel_attributes>lt=&lt;-
+"release
+spider"
+/set(s,0)</panel_attributes><additional_attributes>47;130;47;20</additional_attributes></element><element><type>com.umlet.element.custom.State</type><coordinates><x>290</x><y>70</y><w>99</w><h>40</h></coordinates><panel_attributes>blocked</panel_attributes><additional_attributes>transparentSelection=false</additional_attributes></element><element><type>com.umlet.element.custom.State</type><coordinates><x>290</x><y>220</y><w>99</w><h>40</h></coordinates><panel_attributes>free</panel_attributes><additional_attributes>transparentSelection=false</additional_attributes></element><element><type>com.umlet.element.custom.RegionEndState</type><coordinates><x>440</x><y>370</y><w>20</w><h>20</h></coordinates><panel_attributes></panel_attributes><additional_attributes>transparentSelection=false</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>370</x><y>360</y><w>90</w><h>40</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>70;20;20;20</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>330</x><y>90</y><w>94</w><h>150</h></coordinates><panel_attributes>lt=&lt;-
+"block
+spider"
+/set(s,1)</panel_attributes><additional_attributes>47;20;47;130</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>220</x><y>360</y><w>90</w><h>40</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>70;20;20;20</additional_attributes></element><element><type>com.umlet.element.custom.InitialState</type><coordinates><x>220</x><y>370</y><w>20</w><h>20</h></coordinates><panel_attributes></panel_attributes><additional_attributes>transparentSelection=false</additional_attributes></element><element><type>com.umlet.element.custom.State</type><coordinates><x>290</x><y>360</y><w>99</w><h>40</h></coordinates><panel_attributes>card reader</panel_attributes><additional_attributes>transparentSelection=false</additional_attributes></element><element><type>com.umlet.element.custom.InitialState</type><coordinates><x>240</x><y>80</y><w>20</w><h>20</h></coordinates><panel_attributes></panel_attributes><additional_attributes>transparentSelection=false</additional_attributes></element><element><type>com.umlet.element.base.Relation</type><coordinates><x>240</x><y>70</y><w>70</w><h>40</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>50;20;20;20</additional_attributes></element></umlet_diagram>
